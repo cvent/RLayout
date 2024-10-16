@@ -26,7 +26,7 @@
     "grunt-react": "^0.10.0",
     "grunt-webpack": "^1.0.8",
     "jsx-loader": "^0.12.2",
-    "webpack": "^1.4.13",
+    "webpack": "^1.15.0",
     "webpack-dev-server": "^1.6.6"
   },
   "license": "MIT"
